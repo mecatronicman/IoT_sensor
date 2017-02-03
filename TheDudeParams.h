@@ -1,0 +1,11 @@
+#define MY_SSID "COWIFI89239040/0"
+#define MY_PWD "WiFi-88899400"
+#define MY_HOST "192.168.0.7"
+#define MY_HOSTIP "192.168.0.7"
+#define MY_WEB_PWD "REQUEST_PASSWORD_IN_YOUR_PHP_FILES"
+
+//#define MY_SSID "carlosDlink"
+//#define MY_PWD "carlos@dlink"
+//#define MY_HOST "192.168.0.7"
+//#define MY_HOSTIP "192.168.0.7"
+//#define MY_WEB_PWD "REQUEST_PASSWORD_IN_YOUR_PHP_FILES"
